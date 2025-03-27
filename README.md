@@ -12,3 +12,9 @@ This is a **Doctor Appointment System** built with modern web technologies using
 - **Bundler:** Vite
 - **Configuration Tools:** ESLint, PostCSS
 - **Package Manager:** Bun/NPM
+
+- ### 📌 Prerequisites
+- **Node.js** (v16+ recommended)  
+- **Bun or NPM** installed  
+- **Git** (optional but recommended)  
+
