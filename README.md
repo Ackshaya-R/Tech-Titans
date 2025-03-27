@@ -13,11 +13,11 @@ This is a **Doctor Appointment System** built with modern web technologies using
 - **Configuration Tools:** ESLint, PostCSS
 - **Package Manager:** Bun/NPM
 
-- ### Prerequisites
+- ## Prerequisites
 - **Node.js** (v16+ recommended)  
 - **Bun or NPM** installed  
   
-- ###  Steps to Set Up the Project:
+- ## Steps to Set Up the Project:
 1️⃣ **Download the Project Files**  
    *(Ensure you have the project folder on your local system.)*
 
