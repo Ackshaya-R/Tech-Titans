@@ -17,10 +17,25 @@ This is a **Doctor Appointment System** built with modern web technologies using
 - **Node.js** (v16+ recommended)  
 - **Bun or NPM** installed  
   
- ## Steps to Set Up the Project:
+ ## Steps to Set Up the Project
 1️⃣ **Download the Project Files**  
    *(Ensure you have the project folder on your local system.)*
 
 2️⃣ **Navigate to the Project Directory**  
    cd doctor-appointment-system
+   
+ ## Install Dependencies
+ **npm install**
+ **or**
+ **npm bun**
+
+ ## Start the Development Server
+ **npm run dev**
+ **or**
+ **npm run dev**
+
+ ## Build for Production
+ **npm run build**
+
+ 
 
