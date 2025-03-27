@@ -16,5 +16,13 @@ This is a **Doctor Appointment System** built with modern web technologies using
 - ### 📌 Prerequisites
 - **Node.js** (v16+ recommended)  
 - **Bun or NPM** installed  
-- **Git** (optional but recommended)  
+- **Git** (optional but recommended)
+
+- ### 🚀 Steps to Set Up the Project:
+1️⃣ **Download the Project Files**  
+   *(Ensure you have the project folder on your local system.)*
+
+2️⃣ **Navigate to the Project Directory**  
+   ```sh
+   cd doctor-appointment-system
 
