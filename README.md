@@ -32,7 +32,7 @@ This is a **Doctor Appointment System** built with modern web technologies using
  ## Start the Development Server
  - **npm run dev**
  **or**
- **npm run dev**
+ **bun run dev**
 
  ## Build for Production
  - **npm run build**
