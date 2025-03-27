@@ -25,17 +25,17 @@ This is a **Doctor Appointment System** built with modern web technologies using
    cd doctor-appointment-system
    
  ## Install Dependencies
- **npm install**
+ - **npm install**
  **or**
  **npm bun**
 
  ## Start the Development Server
- **npm run dev**
+ - **npm run dev**
  **or**
  **npm run dev**
 
  ## Build for Production
- **npm run build**
+ - **npm run build**
 
  
 
